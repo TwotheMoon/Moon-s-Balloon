@@ -77,7 +77,7 @@ file = resource_path("images/balloon2.png")
 file = resource_path("images/balloon3.png")
 file = resource_path("images/balloon4.png")
 # 공 크기에 따른 최초 스피드
-ball_speed_y = [-18, -15, -12, -9] # index 0, 1, 2, 3 에 해당하는 값
+ball_speed_y = [-17, -15, -13, -11] # index 0, 1, 2, 3 에 해당하는 값
 
 # 공들
 balls = []
